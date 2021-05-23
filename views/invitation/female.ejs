@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimal-ui" />
+    <title> Kính mời <%= (data.invitee !== null) ? data.invitee.name : ""  %> </title>
+
+    <meta proeperty="og:url" content="https://sauanla.com/" />
+    <meta property="og:site_name" content="Happy wedding" />
+
+    <meta property="og:image" content="/assets/images/seo-fb.png?v=<%= + new Date()%>" />
+    <meta property="og:image:secure_url" content="/assets/images/seo-fb.png?v=<%= + new Date()%>" />
+    <meta property="og:image:width" content="1248" />
+    <meta property="og:image:height" content="702" />
+    <meta property="fb:admins" content="100004574107394" />
+    <meta property="og:updated_time"  content="<%= + new Date()%>" />
+    <meta name="keywords" content='Kính mời <%= (data.invitee !== null) ? data.invitee.name : ""  %>' />
+    <meta name="description" content="Sự hiện diện của quý vị là niềm vinh dự lớn cho gia đình Chúng tôi" />
+    <link rel="shortcut icon" href="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png" />
+
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/metismenu.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/icons.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/img.view.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/invitation.css" rel="stylesheet" type="text/css" />
+    <link href="/plugins/toastr/toastr.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+<body>
+
+    <div id="wrapper">
+        <div id="container">
+
+            <section class="open-book">
+                <article>
+                    <div class="card-welcome">
+                        <img class="bg-top-right" src="/assets/images/right-top.png" />
+                        <img class="bg-bottom-left" src="/assets/images/right-top.png" />
+
+
+                        <div class="share-buttons">
+                            <a style="padding-top: 5px"
+                                href="<%= data.cfg.male.location.map %>"
+                                target="_blank">
+                                <div class="share-button">
+                                    <div class="share-button-secondary">
+                                        <div class="share-button-secondary-content">
+                                            Open map
+                                        </div>
+                                    </div>
+                                    <div class="share-button-primary">
+                                        <i class="share-button-icon ti-map"></i>
+                                    </div>
+                                </div>
+                            </a>
+                            <a style="padding-top: 8px"
+                                href="/bank" %>'
+                                target="_blank">
+                                <div class="share-button">
+                                    <div class="share-button-secondary">
+                                        <div class="share-button-secondary-content">
+                                            Information bank
+                                        </div>
+                                    </div>
+                                    <div class="share-button-primary">
+                                        <i class="share-button-icon ti-money"></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="wrap-card-welcome">
+
+                            <div class="card-welcome-header">
+                                <div class="card-welcome-text vni">
+                                    Wedding
+                                </div>
+                                <div class="card-welcome-date">
+                                    <%= data.cfg.female.time_start.date.lunar.day  %>
+                                    -
+                                    <%= data.cfg.female.time_start.date.lunar.month  %>
+                                    -
+                                    <%= data.cfg.female.time_start.date.lunar.year  %> 
+                                </div>
+
+                            </div>
+
+                            <div class="card-welcome-invite-name vni">
+                                <%= (data.mode == 2 ? "Kính mời: " + data.invitee.name: "Kính mời ....................")  %>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-invite">
+                        <img class="bg-top-right" src="/assets/images/right-top.png" />
+                        <img class="bg-bottom-left" src="/assets/images/right-top.png" />
+
+                        <% if(data.invitee && data.invitee._id){ %>
+                        <a class="btn btn-primary btn-bottom-right" class="btn btn-success"
+                            href='/invocation/<%=data.invitee._id%>' target="_blank">Trả lời </a>
+                        <% } %>
+
+
+                        <div class="card-wrap">
+
+                            <div class="card-header-invite">
+                                <div class="card-header-text">
+                                    Trân trọng kính mời
+                                </div>
+                                <div class="card-header-inviter name vni">
+                                    <%= (data.mode == 2 ? data.invitee.name: "Bạn và gia đình")  %>
+                                </div>
+                                <div class="card-header-inviter">
+                                    Tới dự lễ thành hôn của 2 <%= (data.mode == 2 ? data.invitee.level: "....")  %>
+                                    chúng tôi
+                                </div>
+                            </div>
+                            <div class="card-header-name">
+                                <div class="male-name vni">
+                                    <%= data.cfg.male.name  %>
+                                </div>
+                                <span style="line-height: 15px;"> &</span>
+                                <div class="female-name vni">
+                                    <%= data.cfg.female.name  %>
+                                </div>
+                            </div>
+                            <div class="card-information"> 
+                                    <span style="padding-top: 10px">Hôn lễ được tổ chức vào hồi <%= data.cfg.female.time_start.time.hour  %> giờ 
+                                        <%= data.cfg.female.time_start.time.minute  %>"</span>
+                                    <div class="information-time">
+                                        <span class="week vni">Thứ <%= data.cfg.female.time_start.date.day_of_week  %></span>
+                                        <span class="day btn"> <%= data.cfg.female.time_start.date.lunar.day  %></span>
+                                        <span class="month vni">Tháng  <%= data.cfg.female.time_start.date.lunar.month  %></span>
+                                    </div>
+                                    <span class="detail-time">(Tức ngày <%= data.cfg.female.time_start.date.lunar.day %>/
+                                        <%= data.cfg.female.time_start.date.lunar.month  %>)</span> 
+                                <div style="padding-top:10px">Tại tự gia Nhà Gái </div>
+                                <div class="address">
+                                    <%= data.cfg.female.location.text  %>
+                                </div>
+
+                            </div>
+                            <div class="end-row"> ====================== </div>
+
+                            <div class="card-description">
+                                <span>Sự hiện diện của quý vị <br> là niềm vinh dự lớn cho gia đình Chúng tôi</span>
+                            </div>
+
+                            <div class="wrap-footer">
+                                <div class="footer-information">
+                                    <div class="home-male">
+                                        <span class="footer-header vni">Nhà Trai</span>
+                                        <div class="family-information">
+                                            <p class="family-name"> <%= data.cfg.male.parent.father  %></p>
+                                            <p class="family-name"><%= data.cfg.male.parent.mother  %></p>
+                                        </div>
+                                    </div>
+                                    <div class="home-female">
+                                        <span class="footer-header vni">Nhà Gái</span>
+                                        <div class="family-information">
+                                            <p class="family-name"> <%= data.cfg.female.parent.father  %></p>
+                                            <p class="family-name"><%= data.cfg.female.parent.mother  %></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <footer>
+
+                    <ol id="page-numbers">
+
+                        <li>1</li>
+                        <li>2</li>
+
+                    </ol>
+                </footer>
+            </section>
+
+        </div>
+    </div>
+
+
+    <!-- END wrapper -->
+    <!-- jQuery  -->
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/metisMenu.min.js"></script>
+    <script src="/assets/js/jquery.slimscroll.js"></script>
+    <script src="/assets/js/waves.min.js"></script>
+
+    <script src="/plugins/toastr/toastr.min.js"></script>
+    <!-- App js -->
+    <script src="/assets/js/app.js"></script> 
+    <script src="/assets/js/base/ajax.js"></script>
+    <script src="/assets/js/base/notify.js"></script>
+    <script src="/assets/js/live/invitation/fonts.handle.js"></script> 
+ 
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+<div class="page-title-box">
+  <div class="row align-items-center">
+    <div class="col-sm-12">
+      <h4 class="page-title">Invocations</h4>
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="\">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Invocations</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <div class="card">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table id="datatable" class="table table-bordered  nowrap">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Phone</th>
+                <th scope="col">Status</th>
+                <th scope="col">Time</th>
+                <th scope="col">Message</th>
+                <th  class="text-center">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% for (var i = 0, len = invocations.length ; i < len; i++) {%>
+              <tr>
+                <th scope="row"><%= i+1 %></th>
+                <td>
+                  <a target="_blank" style="cursor: pointer;"
+                    href="<%= '/invitation/'+ invocations[i].inviteeId %>"><%= invocations[i].name %></a>
+                </td>
+                <th><%= invocations[i].phone %></th>
+                
+                <% if(invocations[i].status == 1){ %>
+                  <td>Tham gia</td>
+                  <%  } else if(invocations[i].status == -1){ %>
+                  <td>Không Tham gia</td>
+                  <% } else { %>
+                  <td>Không Tham gia</td>
+                  <% } %>
+                <th style="width: 150px;">
+                  <textarea row="1" class="form-control" disabled > <%= invocations[i].time %></textarea>  
+                <th>
+                  <textarea row="3" class="form-control " disabled > <%= invocations[i].message %></textarea> 
+                 </th>
+                <td  class="text-center">  <button type="button" class="btn btn-warning" onclick="del('<%= invocations[i]._id %>')">Delete</button></td>
+              </tr>
+              <% } %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- end col -->
+</div>
+
+<script type="text/javascript">
+
+  function del(id) {
+      notify.loading();
+
+      $.ajax({
+          url: '/manager/invocation',
+          data: { id },
+          type: 'DELETE',
+          success: function (response) {
+              // Do something with the result
+              if (response.success) {
+                  notify.push("success", notify.EType.SUCCESS);
+                  setTimeout(function () {
+                      window.location.reload();
+                      notify.done();
+                  }, 500);
+              } else {
+                  const msg = (response.messageList && response.messageList.length > 0) ? response.messageList[0].text: "Erros"
+                  notify.push(msg, notify.EType.DANGER);
+                  setTimeout(function () { 
+                      notify.done();
+                  }, 2000);
+              }
+          },
+      });
+  }
+
+</script>

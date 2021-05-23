@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimal-ui" />
+  <title>Happy wedding | Sauanla application </title>
+  <meta proeperty="og:url" content="https://sauanla.com/" />
+  <meta property="og:site_name" content="Happy wedding" />
+
+  <meta property="og:image" content="/assets/images/seo-fb.png" />
+  <meta property="og:image:secure_url" content="/assets/images/seo-fb.png" />
+  <meta property="og:image:width" content="1248" />
+  <meta property="og:image:height" content="702" />
+  <meta property="fb:admins" content="100004574107394" />
+
+  <meta name="keywords" content='Happy wedding' />
+  <meta name="description" content="Sự hiện diện của quý vị là niềm vinh dự lớn cho gia đình Chúng tôi" />
+
+  <link rel="shortcut icon" href="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png" />
+  <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/metismenu.min.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/icons.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/style.css" rel="stylesheet" type="text/css" /> 
+  <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
+  <link href="/plugins/toastr/toastr.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+<body>
+
+  <div id="wrapper">
+    <!-- Top Bar Start -->
+    <%- include share/topbar.ejs %>
+    <!-- Top Bar End -->
+    <!-- ========== Left Sidebar Start ========== -->
+    <%- include share/side-menu.ejs %>
+
+    <div class="content-page">
+      <!-- Start content -->
+      <div class="content">
+        <div class="container-fluid">
+          <%- body %>
+          <!-- end row -->
+        </div>
+        <!-- container-fluid -->
+      </div>
+      <!-- content -->
+      <footer class="footer">
+        © <span class="digital-clock">00:00:00</span> Phucnd
+      </footer>
+    </div>
+  </div>
+
+  <!-- END wrapper -->
+  <!-- jQuery  -->
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/js/metisMenu.min.js"></script>
+  <script src="/assets/js/jquery.slimscroll.js"></script>
+  <script src="/assets/js/waves.min.js"></script>
+
+  <!-- Required datatable js -->
+  <script src="/plugins/datatables/jquery.dataTables.min.js"></script>
+  <script src="/plugins/datatables/dataTables.bootstrap4.min.js"></script>
+
+  <!-- Responsive examples -->
+  <script src="/plugins/datatables/dataTables.responsive.min.js"></script>
+  <script src="/plugins/datatables/responsive.bootstrap4.min.js"></script>
+ 
+  <!-- img-view --> 
+  <script src="/plugins/toastr/toastr.min.js"></script>
+  <!-- App js -->
+  <script src="/assets/js/app.js"></script>
+  <script src="/assets/js/layout.js"></script>
+  <script src="/assets/js/base/ajax.js"></script>
+  <script src="/assets/js/base/notify.js"></script>
+  <script src="/plugins/clipboard/dist/clipboard.min.js"></script> 
+
+  <%- script %>
+</body>
+
+</html>
