@@ -17,7 +17,7 @@ class AccountController extends BaseController {
     }
 
 
-    async loginRender(req, res) { 
+    async loginRender(req, res) {
         res.render('manager/account/login', {
             layout: false,
             captcha: res.recaptcha
@@ -26,29 +26,34 @@ class AccountController extends BaseController {
 
     async login(req, res) {
 
-        try {
-            let param = {
-                username: req.body.username,
-                password: req.body.password
-            };
+        try { 
+            if (!req.recaptcha.error) {
 
-            let result = await this._facade.verifyAccount(param);
+                let param = {
+                    username: req.body.username,
+                    password: req.body.password
+                };
 
-            let user = { 
-                email: result.user.email,
-                username: result.user.username,
+                let result = await this._facade.verifyAccount(param);
+
+                let user = {
+                    email: result.user.email,
+                    username: result.user.username,
+                }
+
+                req.session.user = user;
+
+                if (!result || !result.status) {
+                    this._handleError({
+                        code: 401,
+                        text: result.message
+                    }, res);
+                }
+
+                this._handleResult(user, res);
+            } else {
+                this._handleError('Please valid reCaptcha', res);
             }
-
-            req.session.user = user;
-
-            if(!result||!result.status){
-                this._handleError({
-                    code: 401, 
-                    text: result.message
-                }, res);
-            }
-
-            this._handleResult(user, res);
         } catch (e) {
             this._handleError(e, res);
         }
@@ -59,9 +64,9 @@ class AccountController extends BaseController {
             // delete session object
             req.session.destroy(function (err) {
                 if (err) {
-                    return res.json({err});
+                    return res.json({ err });
                 } else {
-                    return res.json({logout: 'Success'});
+                    return res.json({ logout: 'Success' });
                 }
             });
         }
