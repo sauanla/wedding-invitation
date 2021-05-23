@@ -21,7 +21,7 @@
     <a href="https://github.com/sauanla/wedding-invitation/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sauanla/wedding-invitation/">View Demo</a>
+    <a href="https://sal-wedding-invitation.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/sauanla/wedding-invitation/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/HPuLay0.png)
+[![Product Name Screen Shot][product-screenshot]](https://sal-wedding-invitation.herokuapp.com/)
 
 This is template wedding invation card  using nodeJs and mongodb. You can create a card and send this link for recevier.
 The recevier using link invite for view infomation of marriage ceremony.
@@ -140,7 +140,7 @@ You need setup prerequisites:
 ## Usage
 Seed Database: [seed-db.json]( https://github.com/sauanla/wedding-invitation/tree/main/domains/mongodb/seed-db.json)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://sal-wedding-invitation.herokuapp.com/)_
 
 
 
