@@ -21,7 +21,9 @@ class InviationComponent extends BaseCore {
 
     async getDetailInvitee(id) {
         if (!id) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let invitee = await this._inviteeEntity.findById(id);
@@ -30,39 +32,52 @@ class InviationComponent extends BaseCore {
 
     async updateInvitee(id, invitee) {
         if (!invitee) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let result = await this._inviteeEntity.update(id, invitee);
 
         if (!result) {
-            throw 'An occurs err'
+            throw {
+                message: "An occurs err"
+            }
         }
 
         return result;
     }
-    async addInvitee(id, invitee) {
+    async addInvitee(invitee) {
         if (!invitee) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let result = await this._inviteeEntity.add(invitee);
 
         if (!result) {
-            throw 'An occurs err'
+            throw {
+                message: "An occurs err"
+            }
         }
 
         return result;
     }
     async delInvitee(id) {
         if (!id) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let invitee = await this._inviteeEntity.findById(id);
 
         if (!invitee) {
-            throw 'Invitee does not exist'
+            throw {
+                message: "Invitee does not exist"
+            }
+
         }
 
         await this._inviteeEntity.remove(id);

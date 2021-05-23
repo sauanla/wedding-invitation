@@ -42,7 +42,7 @@ class InvitationController extends BaseController {
             this._handleResult(data, res);
             
         } catch (error) {
-            this.han(error.message, res);
+            this._handleError(error.message, res);
         }
     }
 
@@ -62,7 +62,11 @@ class InvitationController extends BaseController {
 
             this._handleResult(data, res);
         } catch (error) {
-            this.han(error.message, res);
+            console.log(error);
+            this._handleError({
+                code: 500,
+                message: error.message
+            }, res);
         }
     }
 

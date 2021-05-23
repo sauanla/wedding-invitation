@@ -37,7 +37,7 @@ function createInvitee() {
     data: { invitee: invitee },
     type: 'POST',
     success: function (data) {
-      if (data.status) {
+      if (data.success) {
         $('#exampleModal').modal('hide');
         notify.push(data.message, notify.EType.SUCCESS);
         setTimeout(function () {
@@ -46,9 +46,8 @@ function createInvitee() {
         }, 500);
       } else {
         $('#exampleModal').modal('hide');
-        notify.push(data.message, notify.EType.DANGER);
-        setTimeout(function () {
-          window.location.reload();
+        notify.push(data.success, notify.EType.DANGER);
+        setTimeout(function () { 
           notify.done();
         }, 2000);
       }
@@ -77,8 +76,8 @@ function updateInvitee() {
       invitee: invitee
     },
     type: 'PUT',
-    success: function (result) {
-      if (result.success) {
+    success: function (response) {
+      if (response.success) {
         $('#exampleModal').modal('hide');
         notify.push("Success", notify.EType.SUCCESS);
         setTimeout(function () {
@@ -87,7 +86,8 @@ function updateInvitee() {
         }, 500);
       } else {
         $('#exampleModal').modal('hide');
-        notify.push(result.messageList[0].text, notify.EType.DANGER);
+        const msg = (response.messageList && response.messageList.length > 0) ? response.messageList[0].text: "Erros";
+        notify.push(msg, notify.EType.DANGER);
         setTimeout(function () {
           notify.done();
         }, 2000);
@@ -127,18 +127,18 @@ function del(id) {
     url: '/manager/invitation/delete',
     data: { id },
     type: 'DELETE',
-    success: function (result) {
+    success: function (response) {
       // Do something with the result
-      if (result.success) {
+      if (response.success) {
         notify.push("Success", notify.EType.SUCCESS);
         setTimeout(function () {
           window.location.reload();
           notify.done();
         }, 500);
       } else {
-        notify.push(result.messageList[0].text, notify.EType.DANGER);
-        setTimeout(function () {
-          window.location.reload();
+        const msg = (response.messageList && response.messageList.length > 0) ? response.messageList[0].text: "Erros";
+        notify.push(msg, notify.EType.DANGER);
+        setTimeout(function () { 
           notify.done();
         }, 2000);
       }

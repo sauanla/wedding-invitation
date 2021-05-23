@@ -1,7 +1,7 @@
 "use strict";
 
 const BaseCore = require("../../../core/base-core");
-const InvocationEntity = require("../../entities/mongodb/invocation-entity"); 
+const InvocationEntity = require("../../entities/mongodb/invocation-entity");
 
 
 class InvocationComponent extends BaseCore {
@@ -20,7 +20,9 @@ class InvocationComponent extends BaseCore {
 
     async getDetailInvocation(id) {
         if (!id) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let invocation = await this._invocationEntity.findById(id);
@@ -29,39 +31,51 @@ class InvocationComponent extends BaseCore {
 
     async updateInvocation(id, invocation) {
         if (!invocation) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let result = await this._invocationEntity.update(id, invocation);
 
         if (!result) {
-            throw 'An occurs err'
+            throw {
+                message: "An occurs err"
+            } 
         }
 
         return result;
     }
     async addInvocation(invocation) {
         if (!invocation) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let result = await this._invocationEntity.add(invocation);
 
         if (!result) {
-            throw 'An occurs err'
+            throw {
+                message: "An occurs err"
+            } 
         }
 
         return result;
     }
     async delInvocation(id) {
         if (!id) {
-            throw 'Invalid input'
+            throw {
+                message: "Invalid input"
+            }
         }
 
         let invocation = await this._invocationEntity.findById(id);
 
         if (!invocation) {
-            throw 'Invocation does not exist'
+            throw {
+                message: "Invocation does not exist"
+            }  
         }
 
         await this._invocationEntity.remove(id);
