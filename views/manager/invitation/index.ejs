@@ -1,0 +1,124 @@
+<div class="page-title-box">
+  <div class="row align-items-center">
+    <div class="col-sm-12">
+      <h4 class="page-title">Invitees</h4>
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="\">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Invitees</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <div class="card">
+      <div class="card-body">
+        <div class="table-responsive">
+          <div class="control-group" style="padding-bottom: 10px;">
+            <button type="button" class="btn btn-success" id="create" onclick="openModal(false)">Create</button>
+          </div>
+          <table id="datatable" class="table table-bordered  nowrap">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Level</th>
+                <th scope="col">Area</th>
+                <th scope="col">Message</th>
+                <th scope="col" class="text-center">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% for (var i = 0, len = invitees.length ; i < len; i++) {%>
+              <tr>
+                <th scope="row"><%= i+1 %></th>
+                <td>
+                  <a target="_blank" style="cursor: pointer;"
+                    href="<%= '/invitation/'+ invitees[i]._id %>"><%= invitees[i].name %></a>
+                </td>
+                <th><%= invitees[i].level %></th>
+                <th><%= invitees[i].area == 1?"Nhà Trai" : "Nhà Gái"%></th>
+                <th><%= invitees[i].message %></th>
+                <td class="text-center " style="width: 300px;">
+
+                  <button type="button" class="btn  btn-success"
+                    data-clipboard-text="<%= uri + '/invitation/'+ invitees[i]._id %>">
+                    Get Link
+                  </button>
+
+                  <button type="button" class="btn btn-success"
+                    onclick="openModal(true, '<%= invitees[i]._id %>')">Edit</button>
+                  <button type="button" class="btn btn-warning" onclick="del('<%= invitees[i]._id %>')">Delete</button>
+                </td>
+              </tr>
+              <% } %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- end col -->
+</div>
+
+<!--  Modal content for the above example -->
+<div class="modal fade bs-example-modal-md" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+  aria-hidden="true" id="myModal">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title mt-0 text-center" id="myLargeModalLabel">
+          History data
+        </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+          ×
+        </button>
+      </div>
+      <div class="modal-body">
+        <form method="post" action="#">
+          <input name="Id" id="txtId" type="hidden" />
+          <input id="IsEdit" type="hidden" />
+          <div class="form-group">
+            <label for="exampleInputEmail1">Name</label>
+            <input type="text" class="form-control" id="txtName" placeholder="Enter name">
+          </div>
+          <div class="form-group">
+            <label for="level">Level</label>
+            <input type="text" class="form-control" id="txtLevel" placeholder="Enter level">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Message</label>
+            <input type="text" class="form-control" id="txtMessage" placeholder="Enter message">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Area</label>
+            <select class="form-control" id="slArea">
+              <option>Select</option>
+              <option value="1"> Nhà trai</option>
+              <option value="0"> Nhà gái</option>
+            </select>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" onclick="saveData()">Save changes</button>
+      </div>
+      <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+  </div>
+  <!-- /.modal -->
+</div>
+<script>
+
+  var clipboard = new ClipboardJS('.btn');
+
+  clipboard.on('success', function (e) {
+    notify.push("Copied", notify.EType.SUCCESS);
+  }); 
+</script>
+<script src="/assets/js/live/invitation/action.js"></script>
