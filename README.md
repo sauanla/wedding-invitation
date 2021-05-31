@@ -138,7 +138,7 @@ You need setup prerequisites:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Seed Database: [seed-db.json]( https://github.com/sauanla/wedding-invitation/tree/main/domains/mongodb/seed-db.json)
+Run Seed Database: [http://localhost:3001/setup](http://localhost:3001/setup) 
 
 _For more examples, please refer to the [Documentation](https://github.com/sauanla/wedding-invitation/wiki)_
 
@@ -197,4 +197,4 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [issues-url]: https://github.comsauanla/wedding-invitation/issues
 [license-shield]: https://img.shields.io/github/license/sauanla/wedding-invitation.svg?style=for-the-badge
 [license-url]: https://github.com/sauanla/wedding-invitation/blob/main/LICENSE.txt
-[product-screenshot]: https://i.imgur.com/HPuLay0.png
+[product-screenshot]: https://i.imgur.com/R8MzjsI.png
