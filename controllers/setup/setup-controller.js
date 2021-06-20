@@ -10,10 +10,8 @@ class SetupController extends BaseController {
         super(); 
         this.setupPage = this.setupPage.bind(this); 
     }
-
-   
-    async setupPage(req, res) { 
-        console.log("a");
+ 
+    async setupPage(req, res) {  
         try {
             let config = await this._facade.getDefaultDataConfig();
             if (!config) { // neu bang null == chua co du lieu 
@@ -22,7 +20,7 @@ class SetupController extends BaseController {
                // them user 
 
                let userInput = SeeDB.user;
-               await this._facade.addDefaultDataConfig(configInput);
+               await this._facade.addDefaultDataConfig(userInput);
 
               return res.redirect("/invitation")
             }else {
