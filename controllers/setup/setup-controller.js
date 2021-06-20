@@ -20,7 +20,7 @@ class SetupController extends BaseController {
                // them user 
 
                let userInput = SeeDB.user;
-               await this._facade.addDefaultDataConfig(userInput);
+               await this._facade.addAccount(userInput);
 
               return res.redirect("/invitation")
             }else {
