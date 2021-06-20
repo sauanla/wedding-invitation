@@ -22,7 +22,6 @@ class InvitationController extends BaseController {
             if (!data) {
                 return res.redirect("/setup")
             }
-
             res.render('invitation/male', {
                 layout: false,
                 data: {
