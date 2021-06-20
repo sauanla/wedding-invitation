@@ -16,7 +16,7 @@ const SeedDB = {
       },
       location: {
         text: "Quảng Yên - Quảng Ninh - Việt Nam",
-        map: "https://goo.gl/maps/tRjKuVRNisqxhQaT7"
+        map: "https://goo.gl/maps/tTZz4qKhaiqSL8Q66"
       },
       time_start: {
         date: {
@@ -67,7 +67,7 @@ const SeedDB = {
       },
       location: {
         text: "Quốc Oai - Hà Nội - Việt Nam",
-        map: "https://goo.gl/maps/tTZz4qKhaiqSL8Q66"
+        map: "https://goo.gl/maps/tRjKuVRNisqxhQaT7"
       },
       time_start: {
         date: {
