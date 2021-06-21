@@ -26,6 +26,8 @@
     <a href="https://github.com/sauanla/wedding-invitation/issues">Report Bug</a>
     ·
     <a href="https://github.com/sauanla/wedding-invitation/issues">Request Feature</a>
+    ·
+    <a href="https://www.youtube.com/playlist?list=PLftwn3qtQFO2BTKQnC4cK60ibvydPBNh6">Youtube Tutorial</a>
   </p>
 </p>
 
