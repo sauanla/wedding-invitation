@@ -53,7 +53,7 @@
                             <div class="accordion" id="accordionExample"> 
                                 <% for (var i = 0, len =  data.cfg.male.finances.length ; i < len; i++) {%>
                                     <div class="card mb-0">
-                                        <a data-toggle="collapse" href="#collapse_<%= i %>" class="faq" aria-expanded="true"
+                                        <a data-toggle="collapse" href="#collapse_<%= i %>" class="faq <%=  i == 0 ? 'collapsed' : '' %>" aria-expanded="true"
                                             aria-controls="collapse_<%= i %>">
                                             <div class="card-header text-dark" id="heading_<%= i %>">
                                                 <h6 class="m-0 faq-question"><%= data.cfg.male.finances[i].provider_name %></h6>
@@ -92,7 +92,7 @@
                             <div class="accordion" id="accordionExample2">
                                 <% for (var i = 0, len =  data.cfg.female.finances.length ; i < len; i++) {%>
                                     <div class="card mb-0">
-                                        <a data-toggle="collapse" href="#collapse_<%= i+data.cfg.male.finances.length %>" class="faq" aria-expanded="true"
+                                        <a data-toggle="collapse" href="#collapse_<%= i+data.cfg.male.finances.length %>" class="faq <%=  i == 0 ? 'collapsed' : '' %>" aria-expanded="true"
                                             aria-controls="collapse_<%= i+data.cfg.male.finances.length %>">
                                             <div class="card-header text-dark" id="heading_<%= i+data.cfg.male.finances.length %>">
                                                 <h6 class="m-0 faq-question"><%= data.cfg.female.finances[i].provider_name %></h6>
