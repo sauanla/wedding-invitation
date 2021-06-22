@@ -87,7 +87,6 @@ Thank you for your visit and we look forward to hearing from you!
 * [EJS](https://ejs.co)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 
 
