@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "generate": "node index.js",
     "test": "snyk test && nyc mocha --recursive test",
     "start": "node ./bin/www | \"node_modules/.bin/bunyan\"",
     "dev": "nodemon ./bin/www | \"node_modules/.bin/bunyan\"",
