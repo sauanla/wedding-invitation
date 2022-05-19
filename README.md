@@ -200,6 +200,7 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [license-url]: https://github.com/sauanla/wedding-invitation/blob/main/LICENSE.txt
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
-⚡ Quote: Your positive action combined with positive thinking results in success.
+⚡ Quote: 
+**Take it all one day at a time and enjoy the journey.**
 
-Anonymous
+Kristi Bartlett
