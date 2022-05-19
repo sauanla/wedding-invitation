@@ -199,3 +199,7 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [license-shield]: https://img.shields.io/github/license/sauanla/wedding-invitation.svg?style=for-the-badge
 [license-url]: https://github.com/sauanla/wedding-invitation/blob/main/LICENSE.txt
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
+
+⚡ Quote: Your positive action combined with positive thinking results in success.
+
+Anonymous
