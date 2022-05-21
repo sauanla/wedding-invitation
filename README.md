@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Believe you can and you're halfway there.**
+**Do not blame the world. Find a solution.**
 
-Theodore Roosevelt
+Sri Chinmoy
