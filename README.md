@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do not blame the world. Find a solution.**
+**Success consists of getting up just one more time than you fall.**
 
-Sri Chinmoy
+Oliver Goldsmith
