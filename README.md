@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I didn't fail the test. I just found 100 ways to do it wrong.**
+**The supreme art of war is to subdue the enemy without fighting.**
 
-Benjamin Franklin
+Sun Tzu
