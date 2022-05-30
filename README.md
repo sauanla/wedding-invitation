@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only easy day was yesterday.**
+**Whatever the mind can conceive and believe, it can achieve.**
 
-Navy Seals
+Napoleon Hill
