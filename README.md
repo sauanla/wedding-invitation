@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Whatever the mind can conceive and believe, it can achieve.**
+**The secret of change is to focus all of your energy, not on fighting the old, but on building the new.**
 
-Napoleon Hill
+Socrates
