@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Whatever happens, just keep smiling and lose yourself in love.**
+**You miss 100% of the shots you don't take.**
 
-Rumi
+Wayne Gretzky
