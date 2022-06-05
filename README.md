@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is only one corner of the universe you can be certain of improving, and that's your own self.**
+**No matter who you are, no matter what you did, no matter where you've come from, you can always change, and become a better version of yourself.**
 
-Aldous Huxley
+Madonna
