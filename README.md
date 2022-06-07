@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The hardest thing to find in life is happiness - money is only hard to find because it gets wasted trying to find happiness.**
+**Walk on with hope in your heart, and you'll never walk alone.**
 
-Unknown
+Shah Rukh Khan
