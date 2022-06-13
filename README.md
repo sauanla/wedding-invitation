@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit.**
+**It's easy to stand in the crowd but it takes courage to stand alone.**
 
-Conrad Hilton
+Mahatma Gandhi
