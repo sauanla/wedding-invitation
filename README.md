@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Relationships are based on four principles: respect, understanding, acceptance and appreciation.**
+**You are what you do, not what you say you'll do.**
 
-Mahatma Gandhi
+Anonymous
