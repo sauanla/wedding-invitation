@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are what you do, not what you say you'll do.**
+**All things equal, people will do business with, and refer business to, people they know trust and like.**
 
-Anonymous
+Bob Burg
