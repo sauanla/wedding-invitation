@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The journey of a thousand miles begins with one step.**
+**Friends show their love in times of trouble, not in happiness.**
 
-Lao Tzu
+Euripides
