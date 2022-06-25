@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Friends show their love in times of trouble, not in happiness.**
+**When life puts you in tough situations, don't say "why me?" say "try me".**
 
-Euripides
+Anonymous
