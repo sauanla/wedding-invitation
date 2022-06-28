@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Measure a thousand times and cut once.**
+**In order to carry a positive action we must develop here a positive vision.**
 
-Turkish Proverb
+Dalai Lama
