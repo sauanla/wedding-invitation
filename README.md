@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In order to carry a positive action we must develop here a positive vision.**
+**Look at this tree. I cannot make it blossom when it suits me, nor make it bear fruit before its time.**
 
-Dalai Lama
+Master Oogway
