@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Look at this tree. I cannot make it blossom when it suits me, nor make it bear fruit before its time.**
+**I alone cannot change the world, but I can cast a stone across the water to create many ripples.**
 
-Master Oogway
+Mother Teresa
