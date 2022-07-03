@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Good, better, best. Never let it rest. Until your good is better and your better is best.**
+**Pessimism leads to weakness, optimism to power.**
 
-Tim Duncan
+William James
