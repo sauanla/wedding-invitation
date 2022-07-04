@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Pessimism leads to weakness, optimism to power.**
+**It's hard to beat a person who never gives up.**
 
-William James
+Anonymous
