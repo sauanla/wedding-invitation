@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's hard to beat a person who never gives up.**
+**Champions play to win. Failure is just feedback. There's everything to gain by trying your best.**
 
-Anonymous
+Jim Afremow
