@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Forgiving yourself, believing in yourself and choosing to love yourself are the best gifts one could receive.**
+**You have to fight through some bad days to earn the best days of your life.**
 
-Brittany Burgunder
+Anonymous
