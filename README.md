@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You have to fight through some bad days to earn the best days of your life.**
+**You don't have to be great to start. But you do have to start to be great.**
 
-Anonymous
+Zig Ziglar
