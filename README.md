@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You don't have to be great to start. But you do have to start to be great.**
+**What keeps me going is goals.**
 
-Zig Ziglar
+Muhammad Ali
