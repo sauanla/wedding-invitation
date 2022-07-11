@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The critics only made me work harder.**
+**Success trains. Failure complains.**
 
-Muhammad Ali
+Anonymous
