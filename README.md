@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You may say I'm a dreamer but I'm not the only one.**
+**The best way to gain self-confidence is to do what you are afraid to do.**
 
-John Lennon
+Swati Sharma
