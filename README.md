@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The best way to gain self-confidence is to do what you are afraid to do.**
+**Determination is doing what needs to be done even when you don't feel like doing it.**
 
-Swati Sharma
+Anonymous
