@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you can't live longer, live deeper.**
+**The only easy day was yesterday.**
 
-Italian Proverb
+Navy Seals
