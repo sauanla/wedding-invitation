@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**An attitude of positive expectation is the mark of the superior personality.**
+**Each time I thought I had achieved my life's purpose, I discovered it was only another step in my journey.**
 
-Brian Tracy
+Muhammad Ali
