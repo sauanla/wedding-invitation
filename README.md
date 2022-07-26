@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Each time I thought I had achieved my life's purpose, I discovered it was only another step in my journey.**
+**One day you will wake up and there won't be any time to do the things you've always wanted to do. Do it now.**
 
-Muhammad Ali
+Paulo Coelho
