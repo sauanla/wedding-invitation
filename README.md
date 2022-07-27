@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One day you will wake up and there won't be any time to do the things you've always wanted to do. Do it now.**
+**Build your own dreams, or someone else will hire you to build theirs.**
 
-Paulo Coelho
+Farrah Gray
