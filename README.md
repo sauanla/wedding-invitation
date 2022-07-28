@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Build your own dreams, or someone else will hire you to build theirs.**
+**A team is not a group of people that work together. A team is a group of people that trust each other.**
 
-Farrah Gray
+Simon Sinek
