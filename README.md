@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Run when you can, walk if you have to, crawl if you must; just never give up.**
+**Choosing to be positive and having a grateful attitude is going to determine how you're going to live your life.**
 
-Dean Karnazes
+Joel Osteen
