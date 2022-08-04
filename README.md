@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not what you look at that matters, it's what you see.**
+**Good people are like candles; they burn themselves up to give others light.**
 
-Henry David Thoreau
+Anonymous
