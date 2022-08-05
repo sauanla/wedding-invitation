@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Good people are like candles; they burn themselves up to give others light.**
+**Instead of worrying about what you cannot control, shift your energy to what you can create.**
 
-Anonymous
+Roy T. Bennett
