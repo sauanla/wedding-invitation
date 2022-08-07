@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**What you see in yourself is what you see in the world.**
+**Stop doubting yourself. Work hard and make it happen.**
 
-Afghan Proverb
+Anonymous
