@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you want to succeed as bad as you want to breathe, you will be successful.**
+**Do what makes you happy.**
 
-Eric Thomas
+Rachel Ann Nunes
