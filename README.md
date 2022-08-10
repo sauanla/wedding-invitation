@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do what makes you happy.**
+**Whenever you see a successful person, you only see the public glories, never the private sacrifices to reach them.**
 
-Rachel Ann Nunes
+Vaibhav Shah
