@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Whenever you see a successful person, you only see the public glories, never the private sacrifices to reach them.**
+**There will be obstacles. There will be doubters. There will be mistakes. But with hard work, there are no limits.**
 
-Vaibhav Shah
+Anonymous
