@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never give up. Keep going.**
+**If only we'd stop trying to be happy we could have a pretty good time.**
 
-Anonymous
+Edith Wharton
