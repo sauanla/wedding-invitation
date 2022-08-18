@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If only we'd stop trying to be happy we could have a pretty good time.**
+**You will be blessed the moment you realize you already are.**
 
-Edith Wharton
+Bryant Mcgill
