@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You will be blessed the moment you realize you already are.**
+**In a battle between elephants, the ants get squashed.**
 
-Bryant Mcgill
+Thai Proverb
