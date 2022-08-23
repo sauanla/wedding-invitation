@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When a new day begins, dare to smile gratefully.**
+**Run when you can, walk if you have to, crawl if you must; just never give up.**
 
-Steve Maraboli
+Dean Karnazes
