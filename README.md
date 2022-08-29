@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.**
+**Spread love everywhere you go. Let no one ever come to you without leaving happier.**
 
-Anonymous
+Mother Teresa
