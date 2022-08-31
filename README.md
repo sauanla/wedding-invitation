@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Smiling doesn't necessarily mean you're happy. Sometimes it just means you're strong.**
+**You are the only one who can limit your greatness.**
 
 Anonymous
