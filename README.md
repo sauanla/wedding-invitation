@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be happy. It really annoys negative people.**
+**No matter what you do, that seed will grow to be a peach tree. You may wish for an apple or an orange, but you will get a peach.**
 
-Ricky Gervais
+Master Oogway
