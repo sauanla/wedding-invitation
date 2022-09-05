@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life is really simple, but we insist on making it complicated.**
+**Be helpful. When you see a person without a smile, give them yours.**
 
-Confucius
+Zig Ziglar
