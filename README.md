@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be helpful. When you see a person without a smile, give them yours.**
+**Successful people build each other up. They inspire, motivate, and push each other. Unsuccessful people just hate, blame, and complain.**
 
-Zig Ziglar
+Anonymous
