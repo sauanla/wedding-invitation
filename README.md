@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The biggest adventure you can take is to live the life of your dreams.**
+**The journey of a thousand miles begins with one step.**
 
-Oprah Winfrey
+Lao Tzu
