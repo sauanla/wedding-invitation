@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The journey of a thousand miles begins with one step.**
+**When it gets difficult is often right before you succeed.**
 
-Lao Tzu
+Jeffrey Walker
