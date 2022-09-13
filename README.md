@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When it gets difficult is often right before you succeed.**
+**That is bad news... if you do not believe in yourself.**
 
-Jeffrey Walker
+Master Oogway
