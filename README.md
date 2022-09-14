@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**That is bad news... if you do not believe in yourself.**
+**You're off to great places, today is your day. Your mountain is waiting, so get on your way.**
 
-Master Oogway
+Dr. Seuss
