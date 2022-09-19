@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't worry about failure; you only have to be right once.**
+**When it comes to success, there are no shortcuts.**
 
-Drew Houston
+Bo Bennett
