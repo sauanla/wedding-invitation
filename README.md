@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you cannot do great things, do small things in a great way.**
+**Of all the things you wear, your expression is the most important.**
 
-Napoleon Hill
+Janet Lane
