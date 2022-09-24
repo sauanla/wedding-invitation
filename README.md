@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Of all the things you wear, your expression is the most important.**
+**Luck is what happens when preparation meets opportunity.**
 
-Janet Lane
+Seneca
