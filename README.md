@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Luck is what happens when preparation meets opportunity.**
+**Your true success in life begins only when you make the commitment to become excellent at what you do.**
 
-Seneca
+Brian Tracy
