@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is only real when shared.**
+**Don't be afraid to give up the good to go for the great.**
 
-Jon Krakauer
+John D. Rockefeller
