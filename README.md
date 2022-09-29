@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't get discouraged by what you're going through. Your time is coming. Where you are is not where you're going to stay.**
+**Wisdom is knowing when you can't be wise.**
 
-Anonymous
+Muhammad Ali
