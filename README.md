@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When it rains look for rainbows.**
+**The key to being happy is knowing you have the power to choose what to accept and what to let go.**
 
-Oscar Wilde
+Anonymous
