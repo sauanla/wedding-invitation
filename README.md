@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If it is important to you, you will find a way. If not, you'll find an excuse.**
+**Do or do not. There is no try.**
 
-Anonymous
+Yoda
