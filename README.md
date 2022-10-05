@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do or do not. There is no try.**
+**There are only two mistakes one can make along the road to truth; not going all the way, and not starting.**
 
-Yoda
+Buddha
