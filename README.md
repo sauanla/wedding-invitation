@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you can't stop thinking about it, don't stop working for it.**
+**To be calm is the highest achievement of the self.**
 
-Anonymous
+Zen Proverb
