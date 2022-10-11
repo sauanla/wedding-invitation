@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Nobody can make you to feel inferior without your consent.**
+**We are what we repeatedly do. Excellence, then, is not an act, but a habit.**
 
-Eleanor Roosevelt
+Aristotle
