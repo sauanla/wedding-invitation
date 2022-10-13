@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Age is whatever you think it is. You are as old as you think you are.**
+**Life without love is like a tree without blossoms or fruit.**
 
-Muhammad Ali
+Khalil Gibran
