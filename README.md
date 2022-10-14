@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life without love is like a tree without blossoms or fruit.**
+**Never let the fear of striking out keep you from playing the game.**
 
-Khalil Gibran
+Babe Ruth
