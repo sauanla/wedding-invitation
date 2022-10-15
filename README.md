@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never let the fear of striking out keep you from playing the game.**
+**Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.**
 
-Babe Ruth
+Mary Lou Retton
