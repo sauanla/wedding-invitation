@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.**
+**The man who views the world at 50 the same as he did at 20 has wasted 30 years of his life.**
 
-Mary Lou Retton
+Muhammad Ali
