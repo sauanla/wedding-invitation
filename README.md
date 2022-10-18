@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We become what we think about.**
+**The greatest glory in living lies not in never falling, but in rising every time we fall.**
 
-Earl Nightingale
+Nelson Mandela
