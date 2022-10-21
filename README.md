@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The starting point of all achievement is desire.**
+**Good friends are like stars. You don't always see them, but you know they're always there.**
 
-Napoleon Hill
+Christy Evans
