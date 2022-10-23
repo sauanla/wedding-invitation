@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I don't make excuses. I make results.**
+**I can and I will. Watch me.**
 
-Anonymous
+Carrie Green
