@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I can and I will. Watch me.**
+**Difficult roads always lead to beautiful destinations.**
 
-Carrie Green
+Zig Ziglar
