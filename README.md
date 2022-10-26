@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You can't always control what goes on outside, but you can always control what goes on inside.**
+**I am in charge of how I feel and today I am choosing happiness.**
 
-Wayne Dyer
+Anonymous
