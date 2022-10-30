@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Someone who is busier than you is running right now.**
+**The trick is to enjoy life. Don't wish away your days, waiting for better ones ahead.**
 
-Nike
+Marjorie Pay Hinckley
