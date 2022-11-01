@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You deserve to be happy. You deserve to live a life you are excited about. Don't let others make you forget that.**
+**It ain't as bad as you think. It will look better in the morning.**
 
-Anonymous
+Colin Powell
