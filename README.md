@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It ain't as bad as you think. It will look better in the morning.**
+**Life isn't about waiting for the storm to pass, it's about learning how to dance in the rain.**
 
-Colin Powell
+Vivian Greene
