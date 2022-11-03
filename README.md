@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life isn't about waiting for the storm to pass, it's about learning how to dance in the rain.**
+**Certain things catch your eye, but pursue only those that capture the heart.**
 
-Vivian Greene
+Ancient Indian Proverb
