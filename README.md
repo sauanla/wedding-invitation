@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Certain things catch your eye, but pursue only those that capture the heart.**
+**Every strike brings me closer to the next home run.**
 
-Ancient Indian Proverb
+Babe Ruth
