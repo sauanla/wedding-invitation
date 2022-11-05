@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every strike brings me closer to the next home run.**
+**A dream does not become reality through magic; it takes sweat, determination and hard work.**
 
-Babe Ruth
+Colin Powell
