@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A dream does not become reality through magic; it takes sweat, determination and hard work.**
+**Once I realized the problem was not you but within me. I found inner peace and was able to harness the flow of the universe.**
 
-Colin Powell
+Master Shifu
