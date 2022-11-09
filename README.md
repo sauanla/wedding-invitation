@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every day may not be good... but there's something good in every day.**
+**There is no cosmetic for beauty like happiness.**
 
-Alice Morse Earle
+Maria Mitchell
