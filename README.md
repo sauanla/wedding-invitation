@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is no cosmetic for beauty like happiness.**
+**I think that the good and the great are only separated by the willingness to sacrifice.**
 
-Maria Mitchell
+Kareem Abdul-Jabbar
