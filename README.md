@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I think that the good and the great are only separated by the willingness to sacrifice.**
+**I find that the harder I work, the more luck I seem to have.**
 
-Kareem Abdul-Jabbar
+Thomas Jefferson
