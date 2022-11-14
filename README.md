@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**How long are you going to wait before you demand the best for yourself?**
+**Only those who dare to fail greatly can ever achieve greatly.**
 
-Epictetus
+Robert F. Kennedy
