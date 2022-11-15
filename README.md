@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Only those who dare to fail greatly can ever achieve greatly.**
+**Keep smiling, because life is a beautiful thing and there's so much to smile about.**
 
-Robert F. Kennedy
+Marilyn Monroe
