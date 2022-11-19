@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**People want to do business with you because you help them get what they want. They don't do business with you to help you get what you want.**
+**Never give up, stay focused, stay positive, stay strong.**
 
-Don Crowther
+Anonymous
