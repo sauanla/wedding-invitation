@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Before you score, you first must have a goal.**
+**One who moves a mountain begins by carrying away small stones.**
 
-Greek Proverb
+Confucius
