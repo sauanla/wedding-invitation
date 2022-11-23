@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Start where you are. Use what you have. Do what you can.**
+**To give anything less than your best is to sacrifice the gift.**
 
-Arthur Ashe
+Steve Prefontaine
