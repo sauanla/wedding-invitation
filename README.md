@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**To give anything less than your best is to sacrifice the gift.**
+**If your dreams don't scare you, they aren't big enough.**
 
-Steve Prefontaine
+Muhammad Ali
