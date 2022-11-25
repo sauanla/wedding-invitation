@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If your dreams don't scare you, they aren't big enough.**
+**Instead of feeding myself excuses why I can't, I give myself reasons why I can.**
 
-Muhammad Ali
+Anonymous
