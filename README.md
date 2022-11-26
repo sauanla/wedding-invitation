@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Instead of feeding myself excuses why I can't, I give myself reasons why I can.**
+**A beautiful thing is never perfect.**
 
-Anonymous
+Egyptian Proverb
