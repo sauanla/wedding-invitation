@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only way to do great work is to love what you do.**
+**Good people are like candles; they burn themselves up to give others light.**
 
-Steve Jobs
+Anonymous
