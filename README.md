@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Good people are like candles; they burn themselves up to give others light.**
+**The greatest mistake you can make in life is to continually fear that you will make one.**
 
-Anonymous
+Elbert Hubbard
