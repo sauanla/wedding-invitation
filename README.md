@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The greatest mistake you can make in life is to continually fear that you will make one.**
+**You will be exactly as happy as you decide to be.**
 
-Elbert Hubbard
+Anonymous
