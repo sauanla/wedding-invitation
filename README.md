@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You will be exactly as happy as you decide to be.**
+**The struggle you're in today is developing the strength you need tomorrow.**
 
-Anonymous
+Robert Tew
