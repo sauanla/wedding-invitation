@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You must do the thing you think you cannot do.**
+**And if you want to have a day filled with joy, love, and excitement, it is vital that you fill yourself with positivity so you can radiate good energy.**
 
-Eleanor Roosevelt
+Anonymous
