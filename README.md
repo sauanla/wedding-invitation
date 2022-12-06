@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Runners just do it - they run for the finish line even if someone else has reached it first.**
+**If you are not willing to risk the usual, you will have to settle for the ordinary.**
 
-Unknown
+Jim Rohn
