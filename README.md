@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The struggle you're in today is developing the strength you need tomorrow.**
+**If it doesn't challenge you, it won't change you.**
 
-Robert Tew
+Anonymous
