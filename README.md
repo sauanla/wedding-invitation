@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Find a place inside where there's joy, and the joy will burn out the pain.**
+**The secret of change is to focus all of your energy, not on fighting the old, but on building the new.**
 
-Joseph Campbell
+Socrates
