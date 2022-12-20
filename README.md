@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The sweat. The time. The devotion. It pays off.**
+**Are your excuses more important than your dreams?**
 
 Anonymous
