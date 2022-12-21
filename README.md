@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Are your excuses more important than your dreams?**
+**Great minds discuss ideas; average minds discuss events; small minds discuss people.**
 
-Anonymous
+Eleanor Roosevelt
