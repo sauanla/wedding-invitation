@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The purpose of our lives is to be happy.**
+**It takes courage to grow up and become who you really are.**
 
-Dalai Lama
+E.E. Cummings
