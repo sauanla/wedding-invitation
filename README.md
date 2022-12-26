@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You came into the world to do something; So... do something!**
+**I've failed over and over and over again in my life and that is why I succeed.**
 
-Johnnie Dent Jr
+Michael Jordan
