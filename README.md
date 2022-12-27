@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I've failed over and over and over again in my life and that is why I succeed.**
+**The critics only made me work harder.**
 
-Michael Jordan
+Muhammad Ali
