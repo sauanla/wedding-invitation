@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never give up, stay focused, stay positive, stay strong.**
+**The more you praise and celebrate your life, the more there is in life to celebrate.**
 
-Anonymous
+Oprah Winfrey
