@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't wait around for other people to be happy for you. Any happiness you get, you've got to make yourself.**
+**Smile, and let the world wonder why.**
 
-Alice Walker
+Minnie Mouse
