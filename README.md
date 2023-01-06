@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Smile, and let the world wonder why.**
+**Winning is fun, but those moments that you can touch someone's life in a very positive way are better.**
 
-Minnie Mouse
+Tim Howard
