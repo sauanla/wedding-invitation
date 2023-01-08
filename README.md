@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Change your thoughts and you change your world.**
+**I have not failed. I've just found 10,000 ways that won't work.**
 
-Norman Vincent Peale
+Thomas Edison
