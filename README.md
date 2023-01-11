@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A runner must run with dreams in his heart.**
+**Hate. It has caused a lot of problems in this world but has not solved one yet.**
 
-Emil Zatopek
+Maya Angelou
