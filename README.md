@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Hate. It has caused a lot of problems in this world but has not solved one yet.**
+**Great minds discuss ideas; average minds discuss events; small minds discuss people.**
 
-Maya Angelou
+Eleanor Roosevelt
