@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Great minds discuss ideas; average minds discuss events; small minds discuss people.**
+**Opportunities to find deeper powers within ourselves come when life seems most challenging.**
 
-Eleanor Roosevelt
+Joseph Campbell
