@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.**
+**Find a place inside where there's joy, and the joy will burn out the pain.**
 
-Buddha
+Joseph Campbell
