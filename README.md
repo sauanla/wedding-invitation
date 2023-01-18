@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Find a place inside where there's joy, and the joy will burn out the pain.**
+**Life is never fair, and perhaps it is a good thing for most of us that it is not.**
 
-Joseph Campbell
+Oscar Wilde
