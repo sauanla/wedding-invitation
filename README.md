@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Control, control, you must learn control!**
+**Dream without fear. Love without limits.**
 
-Yoda
+Dilip Bathija
