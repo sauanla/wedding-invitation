@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**No matter how much it hurts, hold your head up and keep going.**
+**Never give up. Great things take time. Be patient.**
 
 Anonymous
