@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Coming together is a beginning; keeping together is progress; working together is success.**
+**Keep smiling. It makes people wonder what you are up to.**
 
-Edward Everett Hale
+Anonymous
