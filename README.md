@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Go fast enough to get there, but slow enough to see.**
+**Life becomes easier and more beautiful when we can see the good in other people.**
 
-Jimmy Buffett
+Roy T. Bennett
