@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life becomes easier and more beautiful when we can see the good in other people.**
+**Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.**
 
-Roy T. Bennett
+Wayne Dyer
