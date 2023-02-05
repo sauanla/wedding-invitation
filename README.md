@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You cannot afford to live in potential for the rest of your life; at some point, you have to unleash the potential and make your move.**
+**Move fast and break things. If you are not breaking things, you are not moving fast enough.**
 
-Eric Thomas
+Mark Zuckerberg
