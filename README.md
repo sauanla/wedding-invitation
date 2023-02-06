@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Move fast and break things. If you are not breaking things, you are not moving fast enough.**
+**More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.**
 
-Mark Zuckerberg
+Roy T. Bennett
