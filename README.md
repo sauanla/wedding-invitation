@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.**
+**Keep going. Everything you need will come to you at the perfect time.**
 
-Roy T. Bennett
+Anonymous
