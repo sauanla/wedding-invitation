@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you look the right way, you can see that the whole world is a garden.**
+**Always remember that you are absolutely unique. Just like everyone else.**
 
-Frances Hodgson Burnett
+Margaret Mead
