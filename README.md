@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Always remember that you are absolutely unique. Just like everyone else.**
+**If you don't like something, change it. If you can't change it, change your attitude.**
 
-Margaret Mead
+Maya Angelou
