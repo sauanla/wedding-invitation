@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you don't like something, change it. If you can't change it, change your attitude.**
+**Smiling doesn't necessarily mean you're happy. Sometimes it just means you're strong.**
 
-Maya Angelou
+Anonymous
