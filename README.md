@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you find an idea that you just can't stop thinking about, that's probably a good one to pursue.**
+**Be a voice not an echo.**
 
-Josh James
+Anonymous
