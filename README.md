@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Your path you must decide.**
+**Love isn't something you find. Love is something that finds you.**
 
-Yoda
+Loretta Young
