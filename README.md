@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Love isn't something you find. Love is something that finds you.**
+**It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen.**
 
-Loretta Young
+Muhammad Ali
