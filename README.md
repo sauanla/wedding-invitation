@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen.**
+**Surround yourself with only people who are going to lift you higher.**
 
-Muhammad Ali
+Oprah
