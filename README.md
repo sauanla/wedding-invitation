@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Surround yourself with only people who are going to lift you higher.**
+**You know that it's a fool who plays it cool by making his world a little colder.**
 
-Oprah
+The Beatles
