@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Accept yourself, love yourself, and keep moving forward.**
+**Don't let the silly little things steal your happiness.**
 
-Roy T. Bennett
+Anonymous
