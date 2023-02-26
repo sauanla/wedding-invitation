@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't let the silly little things steal your happiness.**
+**Just think how happy you would be if you lost everything you have right now, and then got it back again.**
 
-Anonymous
+Frances Rodman
