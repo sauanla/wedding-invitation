@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not whether you get knocked down. It's whether you get back up.**
+**It's lack of faith that makes people afraid of meeting challenges, and I believed in myself.**
 
-Vince Lombardi
+Muhammad Ali
