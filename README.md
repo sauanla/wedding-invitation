@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's lack of faith that makes people afraid of meeting challenges, and I believed in myself.**
+**The positive thinker sees the invisible, feels the intangible, and achieves the impossible.**
 
-Muhammad Ali
+Winston Churchill
