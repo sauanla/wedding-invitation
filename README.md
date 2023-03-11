@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you want your dinner, don't insult the cook.**
+**Acting on a good idea is better than just having a good idea.**
 
-Chinese Proverb
+Robert Half
