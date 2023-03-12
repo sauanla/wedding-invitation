@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Acting on a good idea is better than just having a good idea.**
+**Difficult to see. Always in motion is the future.**
 
-Robert Half
+Yoda
