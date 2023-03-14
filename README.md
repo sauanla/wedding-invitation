@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The supreme art of war is to subdue the enemy without fighting.**
+**If you want to find happiness, find gratitude.**
 
-Sun Tzu
+Steve Maraboli
