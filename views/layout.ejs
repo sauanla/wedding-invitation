@@ -18,11 +18,10 @@
   <meta name="keywords" content='Happy wedding' />
   <meta name="description" content="Sự hiện diện của quý vị là niềm vinh dự lớn cho gia đình Chúng tôi" />
 
-  <link rel="shortcut icon" href="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png" />
   <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
   <link href="/assets/css/metismenu.min.css" rel="stylesheet" type="text/css" />
   <link href="/assets/css/icons.css" rel="stylesheet" type="text/css" />
-  <link href="/assets/css/style.css" rel="stylesheet" type="text/css" /> 
+  <link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
   <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
   <link href="/plugins/toastr/toastr.css" rel="stylesheet" type="text/css" />
 </head>
@@ -33,24 +32,24 @@
   <div id="wrapper">
     <!-- Top Bar Start -->
     <%- include share/topbar.ejs %>
-    <!-- Top Bar End -->
-    <!-- ========== Left Sidebar Start ========== -->
-    <%- include share/side-menu.ejs %>
+      <!-- Top Bar End -->
+      <!-- ========== Left Sidebar Start ========== -->
+      <%- include share/side-menu.ejs %>
 
-    <div class="content-page">
-      <!-- Start content -->
-      <div class="content">
-        <div class="container-fluid">
-          <%- body %>
-          <!-- end row -->
+        <div class="content-page">
+          <!-- Start content -->
+          <div class="content">
+            <div class="container-fluid">
+              <%- body %>
+                <!-- end row -->
+            </div>
+            <!-- container-fluid -->
+          </div>
+          <!-- content -->
+          <footer class="footer">
+            © <span class="digital-clock">00:00:00</span> Phucnd
+          </footer>
         </div>
-        <!-- container-fluid -->
-      </div>
-      <!-- content -->
-      <footer class="footer">
-        © <span class="digital-clock">00:00:00</span> Phucnd
-      </footer>
-    </div>
   </div>
 
   <!-- END wrapper -->
@@ -68,15 +67,15 @@
   <!-- Responsive examples -->
   <script src="/plugins/datatables/dataTables.responsive.min.js"></script>
   <script src="/plugins/datatables/responsive.bootstrap4.min.js"></script>
- 
-  <!-- img-view --> 
+
+  <!-- img-view -->
   <script src="/plugins/toastr/toastr.min.js"></script>
   <!-- App js -->
   <script src="/assets/js/app.js"></script>
   <script src="/assets/js/layout.js"></script>
   <script src="/assets/js/base/ajax.js"></script>
   <script src="/assets/js/base/notify.js"></script>
-  <script src="/plugins/clipboard/dist/clipboard.min.js"></script> 
+  <script src="/plugins/clipboard/dist/clipboard.min.js"></script>
 
   <%- script %>
 </body>

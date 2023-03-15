@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimal-ui">
-    <title>Response invitation</title> 
+    <title>Response invitation</title>
 
     <meta proeperty="og:url" content="https://sauanla.com/" />
     <meta property="og:site_name" content="Happy wedding" />
-  
+
     <meta property="og:image" content="/assets/images/seo-fb.png" />
     <meta property="og:image:secure_url" content="/assets/images/seo-fb.png" />
     <meta property="og:image:width" content="1248" />
     <meta property="og:image:height" content="702" />
     <meta property="fb:admins" content="100004574107394" />
-    
-    <link rel="shortcut icon" href="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png" />
+
 
     <meta name="keywords" content='Happy wedding' />
     <meta name="description" content="Sự hiện diện của quý vị là niềm vinh dự lớn cho gia đình Chúng tôi" />
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/metismenu.min.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/icons.css" rel="stylesheet" type="text/css">
-    <link href="/assets/css/style.css" rel="stylesheet" type="text/css"> 
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
     <link href="/plugins/toastr/toastr.css" rel="stylesheet" type="text/css" />
     <style>
@@ -30,7 +30,7 @@
             float: none;
             margin: 0 auto;
         }
-    </style> 
+    </style>
 </head>
 
 <body>
@@ -45,12 +45,15 @@
                         <div class="card">
                             <div class="card-body">
                                 <form id="frmSendRp">
-                                    <div class="form-group"> 
-                                        <input type="text" class="form-control" placeholder="Tên bạn" id="txtName" disabled name="name" value="<%= invitee.name  %>">
-                                        <input type="hidden" class="form-control"  id="txtId" name="name" value="<%= invitee._id  %>">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Tên bạn" id="txtName"
+                                            disabled name="name" value="<%= invitee.name  %>">
+                                        <input type="hidden" class="form-control" id="txtId" name="name"
+                                            value="<%= invitee._id  %>">
                                     </div>
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Số điện thoại" id="txtPhone" name="phone">
+                                        <input type="text" class="form-control" placeholder="Số điện thoại"
+                                            id="txtPhone" name="phone">
                                     </div>
                                     <div class="form-group">
                                         <select class="form-control" id="slStatus" name="status">
@@ -58,19 +61,17 @@
                                             <option value="1">Có đến</option>
                                             <option value="-1">Không thể tham dự</option>
                                             <option value="0"> Chưa biết</option>
-                                          </select>
+                                        </select>
                                     </div>
                                     <div class="form-group">
-                                        <textarea class="form-control" class="form-control" rows="6" name = "message" id="txtMessage"
-                                            placeholder="Lời nhắn"></textarea>
+                                        <textarea class="form-control" class="form-control" rows="6" name="message"
+                                            id="txtMessage" placeholder="Lời nhắn"></textarea>
                                     </div>
                                     <div class="btn-toolbar form-group mb-0">
                                         <div class="">
                                             <button class="btn btn-primary waves-effect waves-light" id="btnSend"
-                                            data-sitekey="6LdUd-MZAAAAAGfOA5oltgGYKZHoTiK-L6Yptoe9" 
-                                            data-callback='onSubmit' 
-                                            data-action='submit'
-                                            ><span>Gửi</span>
+                                                data-sitekey="6LdUd-MZAAAAAGfOA5oltgGYKZHoTiK-L6Yptoe9"
+                                                data-callback='onSubmit' data-action='submit'><span>Gửi</span>
                                                 <i class="fab fa-telegram-plane m-l-10"></i>
                                             </button>
                                         </div>
@@ -93,8 +94,8 @@
     <script src="/assets/js/bootstrap.bundle.min.js"></script>
     <script src="/assets/js/metisMenu.min.js"></script>
     <script src="/assets/js/jquery.slimscroll.js"></script>
-    <script src="/assets/js/waves.min.js"></script>   
-    
+    <script src="/assets/js/waves.min.js"></script>
+
     <script src="/plugins/toastr/toastr.min.js"></script>
 
     <script src="/assets/js/app.js"></script>
@@ -104,16 +105,16 @@
 
     <%- captcha %>
 
-    <script>
-        function cb(token) {
-            var input = document.createElement('input');
-            input.setAttribute('type', 'hidden');
-            input.setAttribute('name', 'g-recaptcha-response');
-            input.setAttribute('id', 'recaptcha');
-            input.setAttribute('value', token);
-            document.getElementsByTagName('form')[0].appendChild(input);
-        }
-    </script>
+        <script>
+            function cb(token) {
+                var input = document.createElement('input');
+                input.setAttribute('type', 'hidden');
+                input.setAttribute('name', 'g-recaptcha-response');
+                input.setAttribute('id', 'recaptcha');
+                input.setAttribute('value', token);
+                document.getElementsByTagName('form')[0].appendChild(input);
+            }
+        </script>
 </body>
 
 </html>
