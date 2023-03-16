@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When it gets difficult is often right before you succeed.**
+**Very little is needed to make a happy life; it is all within yourself, in your way of thinking.**
 
-Jeffrey Walker
+Marcus Aurelius
