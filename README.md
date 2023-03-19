@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In matters of style, swim with the current; in matters of principle, stand like a rock.**
+**The way to get started is to quit talking and begin doing.**
 
-Thomas Jefferson
+Walt Disney
