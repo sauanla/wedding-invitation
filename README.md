@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The way to get started is to quit talking and begin doing.**
+**I survived because the fire inside me burned brighter than the fire around me.**
 
-Walt Disney
+Joshua Graham
