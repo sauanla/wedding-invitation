@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I survived because the fire inside me burned brighter than the fire around me.**
+**There may be people that have more talent than you, but theres no excuse for anyone to work harder than you.**
 
-Joshua Graham
+Derek Jeter
