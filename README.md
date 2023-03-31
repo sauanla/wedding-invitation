@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One of the best ways of being happy with life is to make someone happy.**
+**Self-confidence is the most attractive quality a person can have. How can anyone see how great you are if you can't see it yourself?**
 
 Anonymous
