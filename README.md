@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Self-confidence is the most attractive quality a person can have. How can anyone see how great you are if you can't see it yourself?**
+**Surround yourself with only people who are going to lift you higher.**
 
-Anonymous
+Oprah
