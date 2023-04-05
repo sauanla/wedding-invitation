@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The harder the battle. The sweeter the victory.**
+**Smile at strangers and you just might change a life.**
 
-Les Brown
+Steve Maraboli
