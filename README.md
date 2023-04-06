@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Smile at strangers and you just might change a life.**
+**My attitude is if you push me towards a weakness, I will turn that weakness into a strength.**
 
-Steve Maraboli
+Michael Jordan
