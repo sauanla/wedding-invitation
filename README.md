@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**My attitude is if you push me towards a weakness, I will turn that weakness into a strength.**
+**Where there is love there is life.**
 
-Michael Jordan
+Mahatma Gandhi
