@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Where there is love there is life.**
+**Easy choices, hard life. Hard choices, easy life.**
 
-Mahatma Gandhi
+Jerzy Gregorek
