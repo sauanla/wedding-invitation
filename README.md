@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you stumble, make it part of the dance.**
+**You walk through life much easier with a smile on your face.**
 
-Anonymous
+Sweet Paul
