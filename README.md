@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You walk through life much easier with a smile on your face.**
+**I was angry that I had no shoes. Then I met a man who had no feet.**
 
-Sweet Paul
+Chinese Proverb
