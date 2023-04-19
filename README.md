@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is always something more to learn. Even for a master.**
+**Motivation is what gets you started. Habit is what keeps you going.**
 
-Master Oogway
+Jim Rohn
