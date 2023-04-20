@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Motivation is what gets you started. Habit is what keeps you going.**
+**The best feeling of happiness is when you're happy because you've made somebody else happy.**
 
-Jim Rohn
+Anonymous
