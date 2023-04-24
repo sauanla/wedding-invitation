@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You will find only what you bring in.**
+**If one dream should fall and break into a thousand pieces, never be afraid to pick one of those pieces up and begin again.**
 
-Yoda
+Flavia Weedn
