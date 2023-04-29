@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It is far better to be alone, than to be in bad company.**
+**Patience you must have, my young padawan.**
 
-George Washington
+Yoda
