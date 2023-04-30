@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Patience you must have, my young padawan.**
+**What keeps me going is goals.**
 
-Yoda
+Muhammad Ali
