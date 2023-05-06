@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Not all those who wander are lost.**
+**You may encounter many defeats, but you must not be defeated.**
 
-J. R. R. Tolkien
+Maya Angelou
