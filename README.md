@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One who moves a mountain begins by carrying away small stones.**
+**Beauty lies in the eye of the beholder.**
 
-Confucius
+English Proverb
