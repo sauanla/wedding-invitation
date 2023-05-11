@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**100% commitment is easier than 98% commitment.**
+**Mind what you have learned. Save you it can.**
 
-Harvard Business School
+Yoda
