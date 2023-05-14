@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Today is a beautiful day and I will attract good things into my life.**
+**Impossible is nothing.**
 
-Anonymous
+Muhammad Ali
