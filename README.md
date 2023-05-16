@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Keep your eyes on the stars, and your feet on the ground.**
+**Forgiving yourself, believing in yourself and choosing to love yourself are the best gifts one could receive.**
 
-Theodore Roosevelt
+Brittany Burgunder
