@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Running is therapy anyone can afford.**
+**Peace begins When expectation ends.**
 
-Toni Sorenson
+Sri Chinmoy
