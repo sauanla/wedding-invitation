@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You've got to find people who love like you do.**
+**It's important to feel good about yourself. When you feel good about yourself, nothing negative can touch you.**
 
 Anonymous
