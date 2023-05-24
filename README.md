@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you really look closely, most overnight successes took a long time.**
+**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion'.**
 
-Steve Jobs
+Muhammad Ali
