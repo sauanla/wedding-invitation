@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion'.**
+**Dream without fear. Love without limits.**
 
-Muhammad Ali
+Dilip Bathija
