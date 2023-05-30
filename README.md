@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There are two ways of spreading light: to be the candle, or the mirror that reflects it.**
+**Perseverance is the hard work you do after you get tired of doing the hard work you already did.**
 
-Edith Wharton
+Newt Gingrich
