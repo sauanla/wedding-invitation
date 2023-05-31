@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Perseverance is the hard work you do after you get tired of doing the hard work you already did.**
+**Self-belief and hard work will always earn you success.**
 
-Newt Gingrich
+Virat Kohli
