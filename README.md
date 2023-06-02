@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Climb the mountains to see lowlands.**
+**Only a life lived for others is a life worthwhile.**
 
-Chinese Proverb
+Albert Einstein
