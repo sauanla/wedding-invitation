@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Passion first and everything will fall into place.**
+**The difference between stumbling blocks and stepping stones is how you use them.**
 
-Holly Holm
+Anonymous
