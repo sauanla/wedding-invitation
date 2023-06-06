@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is only real when shared.**
+**Always remember you are braver than you believe, stronger than you seem, and smarter than you think.**
 
-Jon Krakauer
+Christopher Robin
