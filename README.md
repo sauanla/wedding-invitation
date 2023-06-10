@@ -201,6 +201,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Success isn't just about what you accomplish in life. It's about what you inspire others to do.**
+**Yesterday is not ours to recover, but tomorrow is ours to win or lose.**
 
-Anonymous
+Lyndon B. Johnson
